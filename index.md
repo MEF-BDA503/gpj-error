@@ -1,4 +1,10 @@
- ## Error's Progress Journal
+ ## error's members;
+ + [Ozge Genc](https://mef-bda503.github.io/pj-gencozge/)
+ + [Hakan Yigit](https://mef-bda503.github.io/pj-yigithakan/)
+ + [Haki Bozkurt](https://mef-bda503.github.io/pj-hkbzkrt/)
+ + [Sule Kutukde](https://mef-bda503.github.io/pj-kutukdes/)
+ 
+ ## error's Progress Journal
   
 + [Here](Proje2.html) you can find our project
 
