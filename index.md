@@ -5,7 +5,9 @@
  + [Sule Kutukde](https://mef-bda503.github.io/pj-kutukdes/)
  
  ## error's Progress Journal
-  
+ 
++ [Here](sunum.html) you can find our project presentation 
+ 
 + [Here](error_project.html) you can find our project
 
 + [Here](Life3.html) you can find our project proposal
