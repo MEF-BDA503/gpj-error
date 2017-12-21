@@ -8,7 +8,7 @@
  
 + [Here](sunum.html) you can find our project presentation 
  
-+ [Here](error_project.html) you can find our project
++ [Here](error.html) you can find our project
 
 + [Here](Life3.html) you can find our project proposal
  
